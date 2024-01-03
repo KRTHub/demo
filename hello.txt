@@ -4,6 +4,23 @@ Bor på Rågången
 jag
 Kattis och Felicia heter mina katter och familjemedlemmar
 
+Lägger till lite kod här då
+<html>
+<head>
+<title>Min webshop</title>
+</head>
+<body>
+	<table width="600">
+		<tr>
+			<td>WEBSHOP-logga</td>
+			<td>Meny</td>
+		</tr>
+                <tr>
+                        <td>WEBSHOP-logga</td>
+                        <td>Meny</td>
+                </tr>
+	</table>
+</body>
 
 
 
