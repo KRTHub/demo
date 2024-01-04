@@ -1,7 +1,5 @@
-Hejsan svejsan
+Hejsan!
 Katja heter jag!
-Bor på Rågången
-jag
 Kattis och Felicia heter mina katter och familjemedlemmar
 
 Lägger till lite kod här då
